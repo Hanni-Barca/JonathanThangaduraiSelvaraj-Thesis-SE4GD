@@ -25,6 +25,7 @@ The study proposes that embedding sustainability considerations from the outset 
 ### Folders and Contents
 
 #### 1. Analysis
+(Code here refers to the colour code assigned during the process of theme development - this study does not involve scripting or programming)
 - **Codebook-CombinedStudy.xlsx**: Combined analysis of interview and sustainability studies.
 - **Codebook-InterviewStudy.xlsx**: Detailed analysis of the interview study.
 - **Khakurel et al 2018.pdf**: Reference material on AI's role in sustainability.
