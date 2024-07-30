@@ -34,11 +34,14 @@ The study proposes that embedding sustainability considerations from the outset 
 - **SusAD - Tool B.png**: SusAF Diagram for Tool B.
 - **SusAD - Tool C.png**: SusAF Diagram for Tool C.
 - **Vaismoradi et al. - 2016 - Theme development in qualitative research.pdf**: Reference for theme development methodology.
+- **ExtractionForm.xlsx**: Sheet with literature extraction details.
 
 #### 2. Interview
 - **Interview-CollaborationInvite.pdf**: Invitation for collaboration sent to interview participants.
 - **Interview-InformedConsent.docx.pdf**: Informed consent form for participants.
 - **Interview-Questions.pdf**: List of questions asked during the interviews.
+- **Transcripts.pdf**: Interview transcripts.
+
 
 #### 3. Ethics
 - **CER-Salle - Annex II - Qüestionari per a projectes de recerca.pdf**: Ethics questionnaire for the research.
